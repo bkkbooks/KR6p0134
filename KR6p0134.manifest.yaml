@@ -1,0 +1,93 @@
+canonical_identifier: bkk:krp/KR6p0134/v1
+canonical_location: https://kanripo.org/bkk/KR6p0134/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 淨土救生船詩
+  identifiers:
+    alt_id:
+    - X62n1216
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1216.xml
+    old_id: X62n1216
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0134_000.yaml, hash: 'sha256:a4f49bdc3b6ad2b5ef834eb5cdd2a3509d4bdcc0a9a1dcc1ac3df55ec560e4ef'}
+  - {seq: 1, filename: KR6p0134_001.yaml, hash: 'sha256:d2cdb42814a3fe8c0822a5a93e498e999f8c648fe35436a099e64f4dfe5d4a54'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0134_000.markers.yaml, hash: 'sha256:2be90f90b5e5806faed8794dcc54fe6b0a8cf231edf097e68a33f8d5ff1bc88f'}
+  - {seq: 1, role: markers, filename: assets/KR6p0134_001.markers.yaml, hash: 'sha256:98d97c8aaecb02fe3cea58e7f7d9b9212f57a90c0eac8ea3c0c56b3e45063bf4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0134_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1216-A 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0134_X_000-mulu-2
+    span:
+    - front
+    - 536
+    - 536
+  label: No. 1216-B 小敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0134_X_000-mulu-3
+    span:
+    - front
+    - 2112
+    - 2112
+  label: No. 1216-C 觀記
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0134_X_000-mulu-4
+    span:
+    - front
+    - 2211
+    - 2211
+  label: No. 1216-D 題詞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0134_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 1354
+  label: 淨土救生船詩
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0134_X_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 淨土救生船詩
+  type: mulu
+  level: 1
+hash: sha256:87cd04291798f3de0bc835776145b0be5c2045f1a5e5478bdc019c185a4a0f9d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
