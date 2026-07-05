@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0134_000.yaml, hash: 'sha256:a4f49bdc3b6ad2b5ef834eb5cdd2a3509d4bdcc0a9a1dcc1ac3df55ec560e4ef'}
-  - {seq: 1, filename: KR6p0134_001.yaml, hash: 'sha256:d2cdb42814a3fe8c0822a5a93e498e999f8c648fe35436a099e64f4dfe5d4a54'}
+  - {seq: 0, filename: KR6p0134_000.yaml, hash: 'sha256:0752a0c914581df81a74ab601ba998149a255c28a65a1103ad6f4a1b4973d12a'}
+  - {seq: 1, filename: KR6p0134_001.yaml, hash: 'sha256:bef67ae5e50ef7ddeb9cdf43cd97fed0d398439920256a02023dcb3398dac3a2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0134_000.markers.yaml, hash: 'sha256:2be90f90b5e5806faed8794dcc54fe6b0a8cf231edf097e68a33f8d5ff1bc88f'}
-  - {seq: 1, role: markers, filename: assets/KR6p0134_001.markers.yaml, hash: 'sha256:98d97c8aaecb02fe3cea58e7f7d9b9212f57a90c0eac8ea3c0c56b3e45063bf4'}
+  - {seq: 0, role: markers, filename: assets/KR6p0134_000.markers.yaml, hash: 'sha256:c761976882b39034018617c4dc781b52965f83624387ae6138748856b5161ae4'}
+  - {seq: 1, role: markers, filename: assets/KR6p0134_001.markers.yaml, hash: 'sha256:49afba5a878271fa918c0ebb3c14a301f0e1396e08e062304eff695e79f712bc'}
 table_of_contents:
 - ref:
     seq: 0
@@ -87,7 +87,4 @@ table_of_contents:
   label: 淨土救生船詩
   type: mulu
   level: 1
-hash: sha256:87cd04291798f3de0bc835776145b0be5c2045f1a5e5478bdc019c185a4a0f9d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:59b2b6a2b2d3073f20f0e14f3b3efd2294c8b4935276a5d641d2d4364ba6dc39
