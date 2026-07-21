@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0134_000-X.yaml, hash: 'sha256:0752a0c914581df81a74ab601ba998149a255c28a65a1103ad6f4a1b4973d12a'}
+  - {seq: 0, filename: KR6p0134_000-X.yaml, hash: 'sha256:ce8c56b59a1d946028b038b8ad77ce1d120fb3bb37b5b959e23db307bd6f62d1'}
   - {seq: 1, filename: KR6p0134_001-X.yaml, hash: 'sha256:bef67ae5e50ef7ddeb9cdf43cd97fed0d398439920256a02023dcb3398dac3a2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0134_000-X.markers.yaml, hash: 'sha256:61458654072a633f13cf85f9383b149baf3bb726a3db0839c391df9f943f5a5b'}
+  - {seq: 0, role: markers, filename: assets/KR6p0134_000-X.markers.yaml, hash: 'sha256:6080c10f6328bfe281a65cc9c754b93fa9bf5f833c2b8244a10f62098b75c51a'}
   - {seq: 1, role: markers, filename: assets/KR6p0134_001-X.markers.yaml, hash: 'sha256:305cf38b1cd80543f82804864f99a71970c034fbcb0d268759f0a7b7e603764b'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0134_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1216-A 序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0134_X_000-mulu-2
     span:
-    - front
+    - body
     - 536
     - 536
   label: No. 1216-B 小敘
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0134_X_000-mulu-3
     span:
-    - front
+    - body
     - 2112
     - 2112
   label: No. 1216-C 觀記
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0134_X_000-mulu-4
     span:
-    - front
+    - body
     - 2211
     - 2211
   label: No. 1216-D 題詞
@@ -85,4 +85,4 @@ table_of_contents:
   label: 淨土救生船詩
   type: mulu
   level: 1
-hash: sha256:b67b6ed5e89e615e961a5ba610a98c0d8ede24e178515cdd7005c7dea2ad798d
+hash: sha256:5d8ee4d94c3105b4e4ee12d1c73f1809200781dd3112504f4c05e2ea0e046661
